@@ -1,0 +1,28 @@
+{
+  "name": "projetoejs",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon -e .njk,.js ./app.js 4001"
+  },
+  "dependencies": {
+    "consign": "^0.1.6",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "express-fileupload": "^1.1.1-alpha.1",
+    "express-flash": "0.0.2",
+    "express-mysql-session": "^2.0.1",
+    "express-session": "^1.15.6",
+    "format-currency-to-br": "^1.0.0",
+    "http-errors": "~1.6.2",
+    "md5": "^2.2.1",
+    "moment": "^2.22.2",
+    "moment-range": "^4.0.1",
+    "morgan": "~1.9.0",
+    "mysql": "^2.16.0",
+    "nunjucks": "^3.1.3",
+    "p-iteration": "^1.1.7",
+    "util": "^0.11.0"
+  }
+}
