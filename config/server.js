@@ -17,7 +17,7 @@ var app = express();
 
 
 var config = require('../config.json');
-var local = process.argv[2]=='4001' ? 'local' : 'servidor';
+var local = process.argv[2]=='3000' ? 'local' : 'servidor';
 
 // view engine setup
 //app.set('views', './app/views');

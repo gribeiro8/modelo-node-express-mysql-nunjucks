@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "nodemon -e .njk,.js ./app.js 4001"
+    "start": "nodemon -e .njk,.js ./app.js 3000"
   },
   "dependencies": {
     "consign": "^0.1.6",

@@ -27,7 +27,7 @@ if (acesso != 'desenv') {
 }
 
 var config = require('./config.json');
-var local = process.argv[2]=='4001' ? 'local' : 'servidor';
+var local = process.argv[2]=='3000' ? 'local' : 'servidor';
 //var nomeporta = config[local].nomeporta;
 //var porta = process.env[nomeporta] || process.argv[2];
 var porta = config[local].nomeporta || process.argv[2];
