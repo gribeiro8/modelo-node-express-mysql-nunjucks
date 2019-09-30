@@ -1,8 +1,4 @@
 # Modelo de aplicação usando node+express+mysql+nunjuncks
- Modelo de aplicação
- 
- 
-# Modelo de aplicação usando node+express+mysql+nunjuncks
 
 Estrutura básica de projeto usando node, express, banco de dados mysql e engine view nunjucks.
 
